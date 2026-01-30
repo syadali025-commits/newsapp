@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+
+[build.environment]
+  VITE_API_KEY = "00979299c8f941b99b42ed7e5be04324"
